@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GBE-PokeDex-Assignment/static/css/main.f855e6bc.css",
+    "main.js": "/GBE-PokeDex-Assignment/static/js/main.66e298f6.js",
+    "static/js/453.ac4c0547.chunk.js": "/GBE-PokeDex-Assignment/static/js/453.ac4c0547.chunk.js",
+    "static/media/logo.svg": "/GBE-PokeDex-Assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GBE-PokeDex-Assignment/index.html",
+    "main.f855e6bc.css.map": "/GBE-PokeDex-Assignment/static/css/main.f855e6bc.css.map",
+    "main.66e298f6.js.map": "/GBE-PokeDex-Assignment/static/js/main.66e298f6.js.map",
+    "453.ac4c0547.chunk.js.map": "/GBE-PokeDex-Assignment/static/js/453.ac4c0547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.66e298f6.js"
+  ]
+}
