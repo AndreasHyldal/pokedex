@@ -1,16 +1,12 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
-
-body{
-  background-image: linear-gradient(135deg, #aaffff, #ffaec4); 
-
-}
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@500&display=swap');
 
 * {
   margin: 0;
-  font-family: "Quicksand";
-  color: #333;
-  
+  padding: 0;
+  font-family: 'Ysabeau', sans-serif;
+  background-color: #22A699;
+  scroll-behavior: smooth;
 }
 
 .content {
@@ -21,10 +17,15 @@ body{
 
 
 .navbar {
-  padding: 20px;
+  position: sticky;
+  z-index: 10;
+  top: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  background-color: #F29727;
+  color: #060047;
+  padding: 1rem;
 
   max-width: 600px;
   margin: 0 auto;
@@ -32,6 +33,7 @@ body{
 }
 .navbar h1 {
   color: #f1356d;
+  background-color: #F29727;
   margin: 0;
   }
 
